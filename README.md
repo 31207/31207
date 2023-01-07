@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Im a senior 3 student in China, who like computer programming very much.
+I have learnt C++ and Python for almost 6 years, but.. actually, because of the pressure of senior study, I could only consider them as my after-school hobby.So I don't have a good command of them.
+Also I am an OSU!Mania player. Here is my page.
 <!--
 **31207/31207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
